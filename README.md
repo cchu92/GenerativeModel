@@ -1,0 +1,2 @@
+# GenerativeModel
+VAE, GAN,etc.
